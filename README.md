@@ -3,7 +3,7 @@
 ### Initialization
 For using this SDK it will be start with call initialization function
 ```Swift
-import ios_trusted_device
+import ios_fazpass_sdk
 
 let f = Fazpass()
         f.initialize("MERCHANT_KEY", TD_MODE.DEV)
